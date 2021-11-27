@@ -10,4 +10,4 @@ So my repository is in GitHub not Git Bash (local)
 Now on Nov. 27, 2021, I am making another change .
 I made the the change by adding the line above.
 # 
-lokks line the tic-toc-symbol is a line break.
+looks line the tic-toc-symbol is a line break.
