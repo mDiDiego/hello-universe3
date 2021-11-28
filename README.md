@@ -11,3 +11,5 @@ Now on Nov. 27, 2021, I am making another change .
 I made the the change by adding the line above.
 # 
 looks line the tic-toc-symbol is a line break.
+# Today's changes
+It is now Nov. 28, 2021, a Sunday Morning.
